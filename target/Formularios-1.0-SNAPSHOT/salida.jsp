@@ -17,6 +17,7 @@
             <li>Password: <%= user.getPassword()%></li>
         </ul>
         <a href="index.jsp">Ir al inivio</a><br><br>
-        <a href="https://youtu.be/wdRY4LKpcA0?si=dFWAC27E3Vl-BFez">You Tube</a>
+        <a href="https://youtu.be/wdRY4LKpcA0?si=dFWAC27E3Vl-BFez">You Tube</a><br><br>
+        <img width="100px" src="https://img.freepik.com/vector-gratis/ilustracion-lobo-dibujos-animados-dibujados-mano_23-2150350700.jpg?size=338&ext=jpg&ga=GA1.1.539837299.1711929600&semt=ais" alt="alt"/>
     </body>
 </html>
